@@ -1,0 +1,23 @@
+{
+  "name": "techdegree-project-6",
+  "version": "1.0.0",
+  "description": "static-node.js_express-site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Techdegree-Project-6"
+  },
+  "keywords": [
+    "Project",
+    "6"
+  ],
+  "author": "Jake Morris",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}

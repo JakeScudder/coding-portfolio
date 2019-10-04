@@ -1,0 +1,91 @@
+{
+   "Projects": [
+       {
+           "id": 0 ,
+            "project_name": "Techdegree Project 1",
+            "description":  "A random quote generator that scales to accept any number of quotes",
+            "technologies": [ "JavaScript", "HTML", "CSS"],
+            "live_link": "https://jakescudder.github.io/Project-1-Random-Quote/",
+            "github_link": "https://github.com/JakeScudder/Techdegree-Project-1",
+            "image_urls" : [
+                "images/square/Project-1.png",
+                "images/landscape/Project-1/Epictetus.png",
+                "images/landscape/Project-1/Buddha.png",
+                "images/landscape/Project-1/Elon.png"
+            ]
+
+       },
+       {
+        "id": 1 ,
+         "project_name": "Techdegree Project 2",
+         "description":  "This website will accept any number of users and divide them up into 10 users per page. It has numbered, clickable links at the bottom to go to different pages.",
+         "technologies": ["JavaScript", "HTML", "CSS"],
+         "live_link": "https://jakescudder.github.io/Techdegree-Project-2/",
+         "github_link": "https://github.com/JakeScudder/Techdegree-Project-2",
+         "image_urls" : [
+             "images/square/Project-2.png",
+             "images/landscape/Project-2/search-1.png",
+             "images/landscape/Project-2/search-2.png"
+        ]    
+
+        },  
+        {
+            "id": 2 ,
+             "project_name": "Techdegree Project 3",
+             "description":  "Created an interactive form for a fictional conference. It will validate user input as it is filled out and change based on inputs the user selects. This code implements jQuery throughout the entirety of the project.",
+             "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
+             "live_link": "https://jakescudder.github.io/Techdegree-Project-3/",
+             "github_link": "https://github.com/JakeScudder/Techdegree-Project-3",
+             "image_urls" : [
+                 "images/square/Project-3.png",
+                 "images/landscape/Project-3/one.png",
+                 "images/landscape/Project-3/two.png"
+            ]
+    
+        },  
+        {
+            "id": 3 ,
+             "project_name": "Techdegree Project 4",
+             "description":  "A word guessing game that mainly focuses on employing Object Classes. A random phrase will be chosen and a player will try to guess the letters.",
+             "technologies": ["JavaScript", "HTML", "CSS"],
+             "live_link": "https://jakescudder.github.io/Techdegree-Project-4/",
+             "github_link": "https://github.com/JakeScudder/Techdegree-Project-4",
+             "image_urls" : [
+                 "images/square/Project-4.png",
+                 "images/landscape/Project-4/ss4-1.png",
+                 "images/landscape/Project-4/ss4-2.png",
+                 "images/landscape/Project-4/ss4-3.png",
+            ]
+    
+        },
+        {
+            "id": 4 ,
+             "project_name": "Techdegree Project 5",
+             "description":  "This project will utilize public API requests to propagate a webpage with random employees contact information. It will also utilize some jQuery.",
+             "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
+             "live_link": "https://jakescudder.github.io/Techdegree-Project-5/",
+             "github_link": "https://github.com/JakeScudder/Techdegree-Project-5",
+             "image_urls" : [
+                 "images/square/Project-5.png",
+                 "images/landscape/Project-4/ss5-1.png",
+                 "images/landscape/Project-4/ss5-2.png"
+            ]
+    
+        },
+        {
+            "id": 5 ,
+             "project_name": "Gallery Website",
+             "description":  "A simple gallery website I built to display photographs I've taken and information about myself",
+             "technologies": ["JavaScript", "HTML", "CSS"],
+             "live_link": "https://github.com/JakeScudder/First-Website",
+             "github_link": "https://jakescudder.github.io/First-Website/",
+             "image_urls" : [
+                 "images/square/Gallery-site.png",
+                 "images/landscape/Gallery-Website/GWss1.png",
+                 "images/landscape/Gallery-Website/GWss2.png",
+                 "images/landscape/Gallery-Website/GWss3.png"
+             ]
+    
+        }
+   ] 
+}

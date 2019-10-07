@@ -1,5 +1,5 @@
 {
-   "Projects": [
+   "projects": [
        {
            "id": 0 ,
             "project_name": "Techdegree Project 1",
@@ -54,7 +54,7 @@
                  "images/square/Project-4.png",
                  "images/landscape/Project-4/ss4-1.png",
                  "images/landscape/Project-4/ss4-2.png",
-                 "images/landscape/Project-4/ss4-3.png",
+                 "images/landscape/Project-4/ss4-3.png"
             ]
     
         },

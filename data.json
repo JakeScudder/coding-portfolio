@@ -5,10 +5,10 @@
             "project_name": "Techdegree Project 1",
             "description":  "A random quote generator that scales to accept any number of quotes",
             "technologies": [ "JavaScript", "HTML", "CSS"],
-            "live_link": "https://jakescudder.github.io/Project-1-Random-Quote/",
+            "live_link": "https://jakescudder.github.io/Techdegree-Project-1",
             "github_link": "https://github.com/JakeScudder/Techdegree-Project-1",
-            "image_urls" : [
-                "images/square/Project-1.png",
+            "image_square" : "images/square/Project-1.png",
+            "image_landscape" : [
                 "images/landscape/Project-1/Epictetus.png",
                 "images/landscape/Project-1/Buddha.png",
                 "images/landscape/Project-1/Elon.png"
@@ -22,8 +22,8 @@
          "technologies": ["JavaScript", "HTML", "CSS"],
          "live_link": "https://jakescudder.github.io/Techdegree-Project-2/",
          "github_link": "https://github.com/JakeScudder/Techdegree-Project-2",
-         "image_urls" : [
-             "images/square/Project-2.png",
+         "image_square": "images/square/Project-2.png",
+         "image_landscape" : [
              "images/landscape/Project-2/search-1.png",
              "images/landscape/Project-2/search-2.png"
         ]    
@@ -36,8 +36,8 @@
              "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/Techdegree-Project-3/",
              "github_link": "https://github.com/JakeScudder/Techdegree-Project-3",
-             "image_urls" : [
-                 "images/square/Project-3.png",
+             "image_square": "images/square/Project-3.png",
+             "image_landscape" : [
                  "images/landscape/Project-3/one.png",
                  "images/landscape/Project-3/two.png"
             ]
@@ -50,8 +50,8 @@
              "technologies": ["JavaScript", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/Techdegree-Project-4/",
              "github_link": "https://github.com/JakeScudder/Techdegree-Project-4",
-             "image_urls" : [
-                 "images/square/Project-4.png",
+             "image_square": "images/square/Project-4.png",
+             "image_landscape" : [
                  "images/landscape/Project-4/ss4-1.png",
                  "images/landscape/Project-4/ss4-2.png",
                  "images/landscape/Project-4/ss4-3.png"
@@ -65,8 +65,8 @@
              "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/Techdegree-Project-5/",
              "github_link": "https://github.com/JakeScudder/Techdegree-Project-5",
-             "image_urls" : [
-                 "images/square/Project-5.png",
+             "image_square": "images/square/Project-5.png",
+             "image_landscape" : [
                  "images/landscape/Project-4/ss5-1.png",
                  "images/landscape/Project-4/ss5-2.png"
             ]
@@ -79,8 +79,8 @@
              "technologies": ["JavaScript", "HTML", "CSS"],
              "live_link": "https://github.com/JakeScudder/First-Website",
              "github_link": "https://jakescudder.github.io/First-Website/",
-             "image_urls" : [
-                 "images/square/Gallery-site.png",
+             "image_square": "images/square/Gallery-site.png",
+             "image_landscape" : [
                  "images/landscape/Gallery-Website/GWss1.png",
                  "images/landscape/Gallery-Website/GWss2.png",
                  "images/landscape/Gallery-Website/GWss3.png"

@@ -2,8 +2,10 @@
 const express = require('express');
 const app = express();
 
-// Importing json file
+// Importing json file and defining projects variable
 const data = require('./data');
+const projects = data.projects;
+
 // Setting up static route to public folder
 app.use(express.static('public'));
 
@@ -12,7 +14,7 @@ app.set('view engine', 'pug');
 
 // Setting the index route
 app.get('/', (req, res, next) => {
-    res.locals = data.projects;
+    res.locals = projects;
     res.render('index');
 });
 
@@ -22,8 +24,17 @@ app.get('/about', (req, res, next) => {
 });
 
 // Setting the dynamic projects route
-app.get('/project', (req, res, next) => {
-    res.render('project');
+app.get('/project/:id' , (req, res, next) => {
+    res.locals = projects;
+    res.render('project', {
+        title: res.locals[req.params.id].project_name,
+        description: res.locals[req.params.id].description,
+        techArray: res.locals[req.params.id].technologies,
+        live_link: res.locals[req.params.id].live_link,
+        github_link: res.locals[req.params.id].github_link,
+        image_square: res.locals[req.params.id].image_square,
+        image_landscape: res.locals[req.params.id].image_landscape
+    });
 });
 
 

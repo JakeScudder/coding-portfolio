@@ -60,6 +60,11 @@ a{
 a:hover{
   color: #111;
 }
+/* Square pictures */
+
+.thumbnail{
+  box-shadow: 7px 7px 5px #8080806b;
+}
 /* Landscape Pictures*/
 
 .landscape{

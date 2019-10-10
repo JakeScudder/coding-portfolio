@@ -6,25 +6,24 @@ html(class="no-js" lang="en" dir="ltr")
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
     title Portfolio Site
     link(href='https://fonts.googleapis.com/css?family=Merriweather:300,400,400i,700,800', rel='stylesheet')
+    link(href="https://fonts.googleapis.com/css?family=Muli|PT+Serif|Playfair+Display&display=swap" rel="stylesheet")
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
+    link(href="css/animate.css" rel="stylesheet")
   body
     #my-info.off-canvas.position-left.reveal-for-large.portfolio-me(data-off-canvas='')
       .grid-y.grid-padding-x(style='height: 100%;')
         block sidebar
           br
           .cell.shrink
-            img.thumbnail(src='images/jake.jpg')
+            img.thumbnail(src='http://localhost:3000/static/images/jake.jpg')
           .cell.auto
 
-            //- Add your name here.
             h5 Jake Morris
 
-            //- Add text here to describe who you are, what you do, and why you are so awesome.
-            p.text-light
-              |Description 
-
-            //- Add about page route to the href below. 
+            //- Why I am Awesome
+            p.text-light With patience and persistence, I believe I can tackle any problem given the appropriate time and resources.  I know I will be a great benefit to any company that decides to have me on their team.
+               
             a(href='/about') Learn More →
 
     .off-canvas-content(data-off-canvas-content='')
@@ -32,7 +31,7 @@ html(class="no-js" lang="en" dir="ltr")
         .title-bar-left
           button.menu-icon(type='button', data-toggle='my-info')
 
-          //- Add your name here.  This is for the mobile screen sized version.
+          //- mobile screen sized version.
           span.title-bar-title Jake Morris
       block content
         

@@ -12,17 +12,10 @@ block content
     
     .grid-x.grid-margin-x.small-up-2.medium-up-2.large-up-3
 
-      - var projects = [0, 1, 2, 3, 4, 5];
+      - var projects = all_projects;
       each n in projects
-        - var id = n
-        -var projNum = n + 1
-        - var img = "http://localhost:3000/static/images/square/Project-Id-" + n + '.png'
-        - var name = 'Techdegree Project ' + projNum
         .cell
-          a(href='/project/' + id)
-            img.thumbnail(src=img)
-            if name === 'Techdegree Project 6'
-              h5 Gallery Website
-            else
-              h5=name
+          a(href='/project/' + n.id )
+            img.thumbnail(src=n.image_square)
+            h5= n.project_name
     

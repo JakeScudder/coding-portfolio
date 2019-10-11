@@ -7,11 +7,11 @@
             "technologies": [ "JavaScript", "HTML", "CSS"],
             "live_link": "https://jakescudder.github.io/Techdegree-Project-1",
             "github_link": "https://github.com/JakeScudder/Techdegree-Project-1",
-            "image_square" : "http://localhost:3000/static/images/square/Project-Id-0.png",
+            "image_square" : "/static/images/square/Project-Id-0.png",
             "image_landscape" : [
-                "http://localhost:3000/static/images/landscape/Project-1/Epictetus.png",
-                "http://localhost:3000/static/images/landscape/Project-1/Buddha.png",
-                "http://localhost:3000/static/images/landscape/Project-1/Elon.png"
+                "/static/images/landscape/Project-1/Epictetus.png",
+                "/static/images/landscape/Project-1/Buddha.png",
+                "/static/images/landscape/Project-1/Elon.png"
             ]
 
        },
@@ -22,10 +22,10 @@
          "technologies": ["JavaScript", "HTML", "CSS"],
          "live_link": "https://jakescudder.github.io/Techdegree-Project-2/",
          "github_link": "https://github.com/JakeScudder/Techdegree-Project-2",
-         "image_square": "http://localhost:3000/static/images/square/Project-Id-1.png",
+         "image_square": "/static/images/square/Project-Id-1.png",
          "image_landscape" : [
-             "http://localhost:3000/static/images/landscape/Project-2/search-1.png",
-             "http://localhost:3000/static/images/landscape/Project-2/search-2.png"
+             "/static/images/landscape/Project-2/search-1.png",
+             "/static/images/landscape/Project-2/search-2.png"
         ]    
 
         },  
@@ -36,10 +36,10 @@
              "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/Techdegree-Project-3/",
              "github_link": "https://github.com/JakeScudder/Techdegree-Project-3",
-             "image_square": "http://localhost:3000/static/images/square/Project-3.png",
+             "image_square": "/static/images/square/Project-Id-2.png",
              "image_landscape" : [
-                 "http://localhost:3000/static/images/landscape/Project-3/one.png",
-                 "http://localhost:3000/static/images/landscape/Project-3/two.png"
+                 "/static/images/landscape/Project-3/one.png",
+                 "/static/images/landscape/Project-3/two.png"
             ]
     
         },  
@@ -50,11 +50,11 @@
              "technologies": ["JavaScript", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/Techdegree-Project-4/",
              "github_link": "https://github.com/JakeScudder/Techdegree-Project-4",
-             "image_square": "http://localhost:3000/static/images/square/Project-Id-3.png",
+             "image_square": "/static/images/square/Project-Id-3.png",
              "image_landscape" : [
-                 "http://localhost:3000/static/images/landscape/Project-4/ss4-1.png",
-                 "http://localhost:3000/static/images/landscape/Project-4/ss4-2.png",
-                 "http://localhost:3000/static/images/landscape/Project-4/ss4-3.png"
+                 "/static/images/landscape/Project-4/ss4-1.png",
+                 "/static/images/landscape/Project-4/ss4-2.png",
+                 "/static/images/landscape/Project-4/ss4-3.png"
             ]
     
         },
@@ -65,10 +65,10 @@
              "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/Techdegree-Project-5/",
              "github_link": "https://github.com/JakeScudder/Techdegree-Project-5",
-             "image_square": "http://localhost:3000/static/images/square/Project-Id-4.png",
+             "image_square": "/static/images/square/Project-Id-4.png",
              "image_landscape" : [
-                 "http://localhost:3000/static/images/landscape/Project-5/ss5-1.png",
-                 "http://localhost:3000/static/images/landscape/Project-5/ss5-2.png"
+                 "/static/images/landscape/Project-5/ss5-1.png",
+                 "/static/images/landscape/Project-5/ss5-2.png"
             ]
     
         },
@@ -79,11 +79,11 @@
              "technologies": ["JavaScript", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/First-Website/",
              "github_link": "https://github.com/JakeScudder/First-Website",
-             "image_square": "http://localhost:3000/static/images/square/Project-Id-5.png",
+             "image_square": "/static/images/square/Project-Id-5.png",
              "image_landscape" : [
-                 "http://localhost:3000/static/images/landscape/Gallery-Website/GWss1.png",
-                 "http://localhost:3000/static/images/landscape/Gallery-Website/GWss2.png",
-                 "http://localhost:3000/static/images/landscape/Gallery-Website/GWss3.png"
+                 "/static/images/landscape/Gallery-Website/GWss1.png",
+                 "/static/images/landscape/Gallery-Website/GWss2.png",
+                 "/static/images/landscape/Gallery-Website/GWss3.png"
              ]
     
         }

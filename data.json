@@ -3,7 +3,7 @@
        {
            "id": 0 ,
             "project_name": "Techdegree Project 1",
-            "description":  "A random quote generator that scales to accept any number of quotes",
+            "description":  "A random quote generator that scales to accept any number of quotes.",
             "technologies": [ "JavaScript", "HTML", "CSS"],
             "live_link": "https://jakescudder.github.io/Techdegree-Project-1",
             "github_link": "https://github.com/JakeScudder/Techdegree-Project-1",
@@ -18,7 +18,7 @@
        {
         "id": 1 ,
          "project_name": "Techdegree Project 2",
-         "description":  "This website will accept any number of users and divide them up into 10 users per page. It has numbered, clickable links at the bottom to go to different pages.",
+         "description":  "This website will accept any number of users and divide them up into 10 users per page. It has search functionality as well as numbered, clickable links at the bottom of the website in order to navigate to different pages.",
          "technologies": ["JavaScript", "HTML", "CSS"],
          "live_link": "https://jakescudder.github.io/Techdegree-Project-2/",
          "github_link": "https://github.com/JakeScudder/Techdegree-Project-2",
@@ -32,7 +32,7 @@
         {
             "id": 2 ,
              "project_name": "Techdegree Project 3",
-             "description":  "Created an interactive form for a fictional conference. It will validate user input as it is filled out and change based on inputs the user selects. This code implements jQuery throughout the entirety of the project.",
+             "description":  "This project created functionality for an interactive form for a fictional conference. It will validate user input as it is filled out and change based on inputs the user selects. This code implements jQuery throughout the entirety of the project.",
              "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/Techdegree-Project-3/",
              "github_link": "https://github.com/JakeScudder/Techdegree-Project-3",
@@ -46,7 +46,7 @@
         {
             "id": 3 ,
              "project_name": "Techdegree Project 4",
-             "description":  "A word guessing game that mainly focuses on employing Object Classes. A random phrase will be chosen and a player will try to guess the letters.",
+             "description":  "This was a fun project where I made a word guessing game that mainly focuses on employing Object Classes. A random phrase will be chosen and a player will try to guess the letters.",
              "technologies": ["JavaScript", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/Techdegree-Project-4/",
              "github_link": "https://github.com/JakeScudder/Techdegree-Project-4",
@@ -61,7 +61,7 @@
         {
             "id": 4 ,
              "project_name": "Techdegree Project 5",
-             "description":  "This project will utilize public API requests to propagate a webpage with random employees contact information. It will also utilize some jQuery.",
+             "description":  "This project utilizes public API requests to propagate a webpage with random employees contact information. It has search functionality and creates a modal window when the employee is selected.",
              "technologies": ["JavaScript", "jQuery", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/Techdegree-Project-5/",
              "github_link": "https://github.com/JakeScudder/Techdegree-Project-5",
@@ -75,7 +75,7 @@
         {
             "id": 5 ,
              "project_name": "Gallery Website",
-             "description":  "A simple gallery website I built to display photographs I've taken and information about myself",
+             "description":  "A simple gallery website that I built to display photographs I've taken and provide some information about myself.",
              "technologies": ["JavaScript", "HTML", "CSS"],
              "live_link": "https://jakescudder.github.io/First-Website/",
              "github_link": "https://github.com/JakeScudder/First-Website",

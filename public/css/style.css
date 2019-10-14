@@ -34,7 +34,7 @@ body{
 }
 
 #square-grid{
-  animation-delay: 1s;
+  animation-delay: .5s;
 }
 
 .round{

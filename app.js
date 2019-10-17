@@ -40,9 +40,9 @@ app.get('/project/:id' , (req, res, next) => {
             image_landscape: res.locals[req.params.id].image_landscape
         });
     } else {
-        console.log('else')
         const err = new Error("Sorry, we couldn't find the project you were looking for.");
         err.status = 404;
+        console.log(err)
         next(err);
     }
 });
@@ -50,8 +50,9 @@ app.get('/project/:id' , (req, res, next) => {
 // 404 page not found
 app.use((req, res, next) => {
     const err = new Error("Sorry, we couldn't find the page you were looking for.");
-    err.status = 404;
-    next(err);
+    err.status = 404
+    console.log(err);
+    next(err)
 })
 
 //Error handler
